@@ -1,0 +1,96 @@
+{
+  "1501.04839v1": {
+    "title": "Parallelism between locally conformal symplectic manifolds and contact manifolds",
+    "authors": [
+      "Eug\u00e8ne Okassa"
+    ],
+    "summary": "We give the parallelism between locally conformal symplectic manifolds and\ncontact manifolds. We also give the generalization of exact contact manifolds.",
+    "pdf_url": "http://arxiv.org/pdf/1501.04839v1",
+    "published": "2015-01-20"
+  },
+  "1406.1032v1": {
+    "title": "Generalized Kenmotsu Manifolds",
+    "authors": [
+      "Aysel Turgut Vanli",
+      "Ramazan Sari"
+    ],
+    "summary": "In 1972, K. Kenmotsu studied a class of almost contact Riemannian manifolds.\nLater, such a manifold was called a Kenmotsu manifold. This paper, we studied\nKenmotsu manifolds with $(2n+s)$-dimensional $s-$contact metric manifold and\nthis manifold, we have called generalized Kenmotsu manifolds. Necessary and\nsufficient condition is given for an almost $s-$contact metric manifold to be a\ngeneralized Kenmotsu manifold.We show that a generalized Kenmotsu manifold is a\nlocally warped product space. In addition, we study some curvature properties\nof generalized Kenmotsu manifolds. Moreover, we show that the $\\varphi $%\n-sectional curvature of any semi-symmetric and projective semi-symmetric $%\n(2n+s)$-dimensional generalized Kenmotsu manifold is $-s$.",
+    "pdf_url": "http://arxiv.org/pdf/1406.1032v1",
+    "published": "2014-06-04"
+  },
+  "1908.01731v4": {
+    "title": "Selfsimilar Hessian manifolds",
+    "authors": [
+      "Pavel Osipov"
+    ],
+    "summary": "A selfsimiar manifold is a Riemannian manifold $\\left(M,g\\right)$ endowed\nwith a homothetic vector field $\\xi$. We characterize global selfsimilar\nmanifolds and describe the structure of local selfsimilar manifolds. We prove\nthat any selfsimilar manifold with a potential homothetic vector field is a\nconical Riemannian manifold or a Eucledean space. A radiant Hessian manifold is\nselfsimilar Hessian manifold $\\left(M,\\nabla,g,\\xi\\right)$ such that\n$\\nabla\\xi=\\lambda \\text{Id}$. We prove that any selfsimilar Hessian manifold\nwith a potential homothetic vector field is locally isomorphic to a product\nradiant Hessian manifolds and describe the local structure of radiant\nselfsimialar Hessian manifolds.",
+    "pdf_url": "http://arxiv.org/pdf/1908.01731v4",
+    "published": "2019-08-05"
+  },
+  "2503.17848v1": {
+    "title": "Weakly holomorphic homogeneous regular manifolds",
+    "authors": [
+      "Andrew Zimmer"
+    ],
+    "summary": "We introduce a class of complex manifolds which we call weakly holomorphic\nhomogeneous regular manifolds (wHHR) manifolds. As the name suggests, this\nclass contains the so-called holomorphic homogeneous regular manifolds but also\nother classes of complex manifolds such as two dimensional finite type domains\nand simply connected K\\\"ahler manifolds with pinched negative sectional\ncurvature. For wHHR Stein manifolds we prove that the Bergman and Kobayashi\nmetrics are biLipschitz equivalent.",
+    "pdf_url": "http://arxiv.org/pdf/2503.17848v1",
+    "published": "2025-03-22"
+  },
+  "1709.10347v2": {
+    "title": "The BIonic diode in a system of trigonal manifolds",
+    "authors": [
+      "Alireza Sepehri",
+      "Mohd. Zeyauddin",
+      "Anirudh Pradhan"
+    ],
+    "summary": "A BIonic diode is constructed of two polygonal manifolds connected by a\nChern-Simons manifold. The shape and the angle between atoms of molecules on\nthe boundary of two polygonal manifolds are completely different. For this\nreason, electrons on the Chern-Simons manifold are repelled by molecules at the\nboundary of one manifold and absorbed by molecules on the boundary of another\nmanifold. The attractive and repulsive forces between electrons are carried by\nmasive photons. For example, when two non-similar trigonal manifolds join to\neach other, one non-symmetrical hexagonal manifold is emerged and the exchanged\nphotons form Chern-Simons fields which live on a Chern-Simons manifold in a\nBIon. While, for a hexagonal manifold, with similar trigonal manifolds, the\nphotons exchanged between two trigonal manifolds cancel the effect of each\nother and BIonic energy becomes zero. Also, exchanging photons between\nheptagonal and pentagonal manifolds lead to the motion of electrons on the\nChern-Simons manifold and formation of BIonic diode. The mass of photons depend\non the shape of molecules on the boundary of manifolds and the length of BIon\nin a gap between two manifolds.",
+    "pdf_url": "http://arxiv.org/pdf/1709.10347v2",
+    "published": "2017-09-27"
+  },
+  "math/9910027v1": {
+    "title": "Rational homotopy types of mirror manifolds",
+    "authors": [
+      "Jian Zhou"
+    ],
+    "summary": "We explain how to relate the problem of finding a mirror manifold for a\nCalabi-Yau manifold to the problem of characterizing the rational homotopy\ntypes of closed K\\\"{a}hler manifolds.",
+    "pdf_url": "http://arxiv.org/pdf/math/9910027v1",
+    "published": "1999-10-05"
+  },
+  "math/0402055v1": {
+    "title": "Lp-cohomology of negatively curved manifolds",
+    "authors": [
+      "Nader Yeganefar"
+    ],
+    "summary": "We compute the $L^p$-cohomology spaces of some negatively curved manifolds.\nWe deal with two cases: manifolds with finite volume and sufficiently pinched\nnegative curvature, and conformally compact manifolds.",
+    "pdf_url": "http://arxiv.org/pdf/math/0402055v1",
+    "published": "2004-02-04"
+  },
+  "1209.5990v1": {
+    "title": "Hessian comparison and eigenvalue estimate of almost Hermitian manifolds",
+    "authors": [
+      "Chengjie Yu"
+    ],
+    "summary": "In this paper, by using the Bochner technique on almost Hermitian manifolds,\nwe obtain a complex Hessian comparison for almost Hermitian manifolds\ngeneralizing the Laplacian comparison for almost Hermitian manifolds by\nTossati, and reprove a diameter estimate for almost Hermitian manifolds by\nGray. Moreover, we obtain a sharp eigenvalue estimate on quasi Kaehler\nmanifolds and a sharp Hessian comparison on nearly Kaehler manifolds.",
+    "pdf_url": "http://arxiv.org/pdf/1209.5990v1",
+    "published": "2012-09-26"
+  },
+  "1710.00562v1": {
+    "title": "On cobordism of generalized (real) Bott manifolds",
+    "authors": [
+      "Yuxiu Lu"
+    ],
+    "summary": "We show that all generalized (real) Bott manifolds which are (small covers)\nquasitoric manifolds over a product of simplices\n$\\Delta^{n_1}\\times\\cdots\\times\\Delta^{n_r}\\times\\Delta^{1}$ are always\nboundaries of some manifolds. But these manifolds with the natural\n$(\\mathbb{Z}_2)^n$ action do not necessarily bound equvariantly. In addition,\nwe can construct some examples of null-cobordant but not orientedly\nnull-cobordant manifolds among quasitoric manifolds.",
+    "pdf_url": "http://arxiv.org/pdf/1710.00562v1",
+    "published": "2017-10-02"
+  },
+  "1301.0469v2": {
+    "title": "Topological rigidity of quasitoric manifolds",
+    "authors": [
+      "V. Metaftsis",
+      "S. Prassidis"
+    ],
+    "summary": "Quasitoric manifolds are manifolds that admit an action of the torus that is\nlocally as the standard action of T^n on C^n. It is known that the quotients of\nsuch actions are nice manifolds with corners. We prove that such manifolds are\nequivariantly rigid i.e., that any other manifold that is T^n-homotopy\nequivalent to a quasitoric manifold, is T^n-homeomorphic to it.",
+    "pdf_url": "http://arxiv.org/pdf/1301.0469v2",
+    "published": "2013-01-03"
+  }
+}

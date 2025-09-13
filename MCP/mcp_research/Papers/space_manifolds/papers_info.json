@@ -1,0 +1,21 @@
+{
+  "1406.1032v1": {
+    "title": "Generalized Kenmotsu Manifolds",
+    "authors": [
+      "Aysel Turgut Vanli",
+      "Ramazan Sari"
+    ],
+    "summary": "In 1972, K. Kenmotsu studied a class of almost contact Riemannian manifolds.\nLater, such a manifold was called a Kenmotsu manifold. This paper, we studied\nKenmotsu manifolds with $(2n+s)$-dimensional $s-$contact metric manifold and\nthis manifold, we have called generalized Kenmotsu manifolds. Necessary and\nsufficient condition is given for an almost $s-$contact metric manifold to be a\ngeneralized Kenmotsu manifold.We show that a generalized Kenmotsu manifold is a\nlocally warped product space. In addition, we study some curvature properties\nof generalized Kenmotsu manifolds. Moreover, we show that the $\\varphi $%\n-sectional curvature of any semi-symmetric and projective semi-symmetric $%\n(2n+s)$-dimensional generalized Kenmotsu manifold is $-s$.",
+    "pdf_url": "http://arxiv.org/pdf/1406.1032v1",
+    "published": "2014-06-04"
+  },
+  "1908.01731v4": {
+    "title": "Selfsimilar Hessian manifolds",
+    "authors": [
+      "Pavel Osipov"
+    ],
+    "summary": "A selfsimiar manifold is a Riemannian manifold $\\left(M,g\\right)$ endowed\nwith a homothetic vector field $\\xi$. We characterize global selfsimilar\nmanifolds and describe the structure of local selfsimilar manifolds. We prove\nthat any selfsimilar manifold with a potential homothetic vector field is a\nconical Riemannian manifold or a Eucledean space. A radiant Hessian manifold is\nselfsimilar Hessian manifold $\\left(M,\\nabla,g,\\xi\\right)$ such that\n$\\nabla\\xi=\\lambda \\text{Id}$. We prove that any selfsimilar Hessian manifold\nwith a potential homothetic vector field is locally isomorphic to a product\nradiant Hessian manifolds and describe the local structure of radiant\nselfsimialar Hessian manifolds.",
+    "pdf_url": "http://arxiv.org/pdf/1908.01731v4",
+    "published": "2019-08-05"
+  }
+}
